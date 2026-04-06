@@ -1,3 +1,3 @@
 # js-sprints
 
-Mastering Javascript
+Learning Javascript
