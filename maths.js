@@ -13,7 +13,7 @@ same goes for addition and subtraction it goes from left to right.
 Now the calculate the persentage for example tax (%) like 10 % on a product
 
 1 % = 1 / 100 , where one is the per and 100 is the cent
-10% = 10/100 = 0.1
+10 % = 10 / 100 = 0.1
 
 And we use brackets to calculate a equation first if needed. 
 
