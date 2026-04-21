@@ -20,4 +20,6 @@ And we use brackets to calculate a equation first if needed.
 for eg, (20.95 + 7.99 * 2) * 0.1
 we get, = 3.693
 
+now calculating in cents for a accurate answer.
+         
 
