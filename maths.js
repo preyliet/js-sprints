@@ -28,5 +28,10 @@ we multiplyby 0.1 for suppose 10% tax on any product.
 Because 1% = 1/100 where 1 is per and 100 cent
 
 10% = 10/100 = 0.1
-         
+
+for eg, (20.95 + 7.99 * 2) * 0.1
+
+we get, 3.693 and we can round it off by using the math.round
+
+for eg, if we Math.round(3.693) then we get 3 or specifically we can get 3.69 as well for price.
 
