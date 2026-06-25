@@ -2,4 +2,5 @@
 
 Learning Javascript
 
-from the super simple dev javascript course
+from the super simple dev javascript course available on youtube.
+
