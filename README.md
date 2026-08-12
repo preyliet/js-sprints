@@ -2,5 +2,5 @@
 
 Learning Javascript
 
-from the super simple dev javascript course available on youtube.
+On my own.
 
