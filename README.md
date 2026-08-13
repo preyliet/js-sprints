@@ -2,5 +2,7 @@
 
 Learning Javascript
 
-On my own.
+On my own
+
+Currently using Chat GPT and Cursor.
 
