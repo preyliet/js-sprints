@@ -1,9 +1,12 @@
-// 02 - Control Flow 
+// ============================================
+// 02 - Control Flow
+// ============================================
 
 
-
-/* 1. IF
-
+// --------------------------------------------
+// 1. IF
+// --------------------------------------------
+/*
 AN IF STATEMENT CHECKS WHETHER A CONDITION IS TRUE. */
 {
 let age = 19;
@@ -24,8 +27,12 @@ if (age >= 18) {
 
 
 
-/* 2. CONDITIONS 
 
+// --------------------------------------------
+// 2. Conditions
+// --------------------------------------------
+
+/*
 A CONDITION IS AN EXPRESSION THAT EVALUATES TO TRUE OR FALSE.
 
 The most common conditions are comparison operators. 
@@ -55,8 +62,11 @@ console.log(5 !== 3); // true
 
 
 
-/* 3. ELSE 
 
+// --------------------------------------------
+// 3. Else 
+// --------------------------------------------
+/*
 WHAT IF YOU WANT JAVASCCRIPTTO DO SOMETHING WHEN THE CONDITION IS FALSE?```     
 
 AN ELSE STATEMENT IS USED TO SPECIFY A BLOCK OF CODE TO BE EXECUTED IF THE CONDITION IS FALSE. */
@@ -72,8 +82,12 @@ if (age >= 18) {
 
 // IT'S FALSE, SO IT GOES TO THE ELSE BLOCK AND PRINTS "You are A minor".
 
-/* 4. ELSE IF
 
+
+// --------------------------------------------
+// 4. ELSE IF
+// --------------------------------------------
+/*
 SOMETIMES YOU HAVE MORE THAN TWO CONDITIONS TO CHECK.
 
 WHAT IF YOU WANT TO CHECK MULTIPLE CONDITIONS?*/
@@ -91,8 +105,11 @@ if (marks >= 90) {
 }
 
 
-/* 5. == vs === 
 
+// --------------------------------------------
+// 5. == vs === 
+// --------------------------------------------
+/*
  YOU WILL GENERALLY WANT TO USE === INSTEAD OF ==. 
 
 FOR EXAMPLE, 
