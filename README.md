@@ -4,5 +4,5 @@ Learning Javascript
 
 On my own
 
-Currently using Chat GPT and Cursor.
+Currently using Chat GPT and VS Code.
 
